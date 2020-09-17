@@ -2,7 +2,7 @@
 <p><em>Senior Software Engineer at <a href="https://www.discoverykidsplus.com/">Discovery Inc</a> & Mentor at <a href="https://makeitreal.camp/">Make It Real</a>
 </em></p>
 
-[![Linkedin: carlosgoyeneche](https://img.shields.io/badge/-carlosgoyeneche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/carlosgoyeneche-17491247/)](linkedin.com/in/carlosgoyeneche-17491247/)<br/>
+[![Linkedin: carlosgoyeneche](https://img.shields.io/badge/-carlosgoyeneche-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgoyeneche/?locale=en_US)<br/>
 [![GitHub Goye](https://img.shields.io/github/followers/Goye?label=follow&style=social)](https://github.com/Goye)
 
 **Languages and Tools:**
