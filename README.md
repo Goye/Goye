@@ -1,5 +1,5 @@
 ## Hi there, I am Goye <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p><em>Web UI Technical Architect at <a href="https://www.globant.com/">Globant</a> & Mentor at <a href="https://makeitreal.camp/">Make It Real</a>
+<p><em>Senior Principal Engineer at <a href="https://www.slalombuild.com/en-gb/">Slalom_Build</a>
 </em></p>
 
 [![Linkedin: carlosgoyeneche](https://img.shields.io/badge/-carlosgoyeneche-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgoyeneche/?locale=en_US)<br/>
